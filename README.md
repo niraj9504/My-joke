@@ -10,5 +10,7 @@ Process to use extension on your browser:-
 
 Thank you !
 NIRAJ KUMAR
+
 Here is how it looks on chrome
+
 <img width="1440" alt="Screenshot 2023-01-21 at 11 24 48 PM" src="https://user-images.githubusercontent.com/86815759/213880516-0bd584d3-f08c-45c4-9b4a-8dd7137deec1.png">
